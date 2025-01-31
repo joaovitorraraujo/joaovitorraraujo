@@ -47,6 +47,8 @@
   <img width="6" /> 
 <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="6" /> 
+<img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="6" /> 
 </div>
 
 ###
