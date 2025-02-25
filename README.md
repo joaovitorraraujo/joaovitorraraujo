@@ -53,8 +53,7 @@
 
 ###
 <div align="left">
-<img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
- <img width="6" />
+
 <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
  <img width="6" />
 <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
