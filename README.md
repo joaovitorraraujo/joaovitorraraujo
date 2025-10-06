@@ -6,7 +6,7 @@
 
  ###
 
- <p align="left">😀 My name is João Vitor, and I am 20 years old.<br>📚 I am currently studying at CESMAC.<br>🏙️🏖️ I live in Maceió-AL.<br>📒 I am trying to improve my English every day, so please forgive any mistakes.</p>
+ <p align="left">😀 My name is João Vitor, and I am 21 years old.<br>📚 I am currently studying at CESMAC.<br>🏙️🏖️ I live in Maceió-AL.<br>📒 I am trying to improve my English every day, so please forgive any mistakes.</p>
 
 
 <div align="left">
@@ -14,7 +14,7 @@
 </div>
 
  ###
- <h2 align="left">💻 Experience with 👀I'm not good at any of this.</h2>
+ <h2 align="left">💻 Experience with</h2>
 
 
 
@@ -45,10 +45,6 @@
   <img width="6" /> 
 <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
   <img width="6" /> 
-<img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="6" /> 
-<img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="6" /> 
 </div>
 
 ###
@@ -77,11 +73,4 @@
  <img width="6" />
 </div>
 
-##
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaovitorraraujo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joaovitorraraujo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-##
